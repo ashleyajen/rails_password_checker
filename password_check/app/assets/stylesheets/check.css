@@ -1,0 +1,25 @@
+#tiptop {
+  font-family: 'Fugaz One', cursive;
+  font-size: 50pt;
+  color: 			#00d2ff;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p{
+  font-family: 'Faster One', cursive;
+  font-size: 40pt;
+  color: 	#63ace5;
+  text-align: center;
+
+
+}
+body {
+  background-image: url(http://kawaii.kawaii.at/img/beige-blue-fortune-cat-animal-Japanese-wave-pattern-Asia-fabric-from-Japan-193112-1.jpg);
+  background-size: cover;
+
+}
+
+#droptop {
+  text-align: center;
+}
